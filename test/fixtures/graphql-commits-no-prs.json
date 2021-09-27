@@ -15,6 +15,7 @@
               "author": {
                 "name": "Timon van Spronsen",
                 "user": {
+                  "__typename": "User",
                   "login": "TimonVS"
                 }
               },
@@ -28,6 +29,7 @@
               "author": {
                 "name": "Timon van Spronsen",
                 "user": {
+                  "__typename": "User",
                   "login": "TimonVS"
                 }
               },
@@ -41,6 +43,7 @@
               "author": {
                 "name": "Timon van Spronsen",
                 "user": {
+                  "__typename": "User",
                   "login": "TimonVS"
                 }
               },
@@ -54,6 +57,7 @@
               "author": {
                 "name": "Timon van Spronsen",
                 "user": {
+                  "__typename": "User",
                   "login": "TimonVS"
                 }
               },
@@ -67,6 +71,7 @@
               "author": {
                 "name": "Timon van Spronsen",
                 "user": {
+                  "__typename": "User",
                   "login": "TimonVS"
                 }
               },

@@ -15,6 +15,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -28,6 +29,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -41,6 +43,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -54,6 +57,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -67,6 +71,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -80,6 +85,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -93,6 +99,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -106,6 +113,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -119,6 +127,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -132,6 +141,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -145,6 +155,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -158,6 +169,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -171,6 +183,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -184,6 +197,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -197,6 +211,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -210,6 +225,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -223,6 +239,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -236,6 +253,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -246,6 +264,7 @@
                     "number": 1,
                     "mergedAt": "2018-06-26T12:09:55Z",
                     "author": {
+                      "__typename": "User",
                       "login": "toolmantim"
                     },
                     "labels": {
@@ -264,6 +283,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
@@ -274,6 +294,7 @@
                     "number": 1,
                     "mergedAt": "2018-06-26T12:09:55Z",
                     "author": {
+                      "__typename": "User",
                       "login": "toolmantim"
                     },
                     "labels": {
@@ -292,6 +313,7 @@
               "author": {
                 "name": "Tim Lucas",
                 "user": {
+                  "__typename": "User",
                   "login": "toolmantim"
                 }
               },
